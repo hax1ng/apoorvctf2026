@@ -2,7 +2,7 @@
 
 Writeups and solve scripts for **ApoorvCTF 2026** challenges.
 
-**31 challenges solved** across 8 categories.
+**28 challenges solved** across 8 categories.
 
 ## Challenges
 
@@ -20,8 +20,6 @@ Writeups and solve scripts for **ApoorvCTF 2026** challenges.
 |-----------|-----------|---------|-------------|
 | [Riddler](crypto/riddler/) | Easy | [Writeup](crypto/riddler/README.md) | [solve.py](crypto/riddler/solve.py) |
 | [Tick Tock](crypto/tick-tock/) | Medium | [Writeup](crypto/tick-tock/README.md) | [solve.py](crypto/tick-tock/solve.py) |
-| [Riddler 2](crypto/riddler2/) | Hard | [Writeup](crypto/riddler2/README.md) | [solve.py](crypto/riddler2/solve.py) |
-| [Actual Message](crypto/actualmsg/) | Hard | [Writeup](crypto/actualmsg/README.md) | [solve.py](crypto/actualmsg/solve.py) |
 
 ### Forensics (6/?)
 
@@ -45,8 +43,6 @@ Writeups and solve scripts for **ApoorvCTF 2026** challenges.
 
 | Challenge | Difficulty | Writeup | Solve Script |
 |-----------|-----------|---------|-------------|
-| [Riddler's Respite](misc/riddlers-respite/) | Hard | [Writeup](misc/riddlers-respite/README.md) | [solve.py](misc/riddlers-respite/solve.py) |
-| [NP Harder](misc/np-harder/) | Easy | [Writeup](misc/np-harder/README.md) | - |
 
 ### Pwn (3/?)
 
